@@ -1,7 +1,7 @@
 # Pharmacy
 Pharmacy project Power BI dashboard
 
-(https://github.com/user-attachments/assets/3bc69434-349e-4904-ad95-fe987aec368d)
+Dashboard image - (https://github.com/user-attachments/assets/3bc69434-349e-4904-ad95-fe987aec368d)
 
 Project Overview
 This project analyzes pharmacy sales data using Power BI to identify customer purchasing patterns, optimize inventory management, and improve sales strategies. The dashboard provides insights into frequently bought products, repeat customers, and peak sales trends to enhance business decision-making.
