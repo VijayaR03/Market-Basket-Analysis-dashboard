@@ -13,6 +13,7 @@ Objectives
 ✔ Optimize inventory management based on product demand patterns
 
 Data & Methodology
+
 📌 Dataset: Simulated pharmacy transactions with 70,000 records
 📌 Tools Used: Power BI (for data visualization and analysis)
 📌 Key DAX Measures Implemented:
@@ -31,6 +32,7 @@ Dashboard Features
 📊 Time-Based Trends → Sales distribution by quarter, year
 
 Business Impact
+
 ✅ Helps pharmacies improve cross-selling by recommending product bundles
 ✅ Supports better stock management by identifying high and low-demand items
 ✅ Enhances customer retention strategies using purchase behavior analysis
