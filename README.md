@@ -1,5 +1,5 @@
 # Pharmacy
-Pharmacy project Power BI dashboard
+Market Basket Analysis dashboard
 
 Dashboard image - (https://github.com/user-attachments/assets/3bc69434-349e-4904-ad95-fe987aec368d)
 
